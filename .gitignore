@@ -1,0 +1,4 @@
+app/dump/*
+app/scraping/__pycache__/*
+*.pyc
+
