@@ -1,0 +1,9 @@
+============================= test session starts ==============================
+platform linux -- Python 3.9.16, pytest-7.2.1, pluggy-1.0.0
+rootdir: /app
+plugins: anyio-3.6.2
+collected 1 item
+
+test.py .                                                                [100%]
+
+============================== 1 passed in 22.54s ==============================
