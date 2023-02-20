@@ -1,4 +1,5 @@
 docker build .
+
 docker-compose up -d
 
 http://localhost/facebook   
